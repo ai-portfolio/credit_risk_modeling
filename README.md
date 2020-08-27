@@ -45,4 +45,6 @@
 
 ### 3. Feature Engineering
 
-- [ ] TODO: Convert continuous to categorical variables for use as a scorecard
+- [ ] TODO: Convert continuous to categorical (dummy) variables for use as a scorecard
+- [ ] TODO: Fine classing of categorical variables
+- [ ] TODO: Coarse classing of categorical variables
