@@ -11,11 +11,11 @@
 
 ## Objectives
 
-1. Predict the Expected Loss (EL) based on EL = PD X LGD X EAD, where: 
+- [ ] Predict the Expected Loss (EL) based on EL = PD X LGD X EAD, where: 
     - PD: Probability of Default
     - LGD: Loss Given Default
     - EAD: Exposure at Default 
-2. Deploy the predictive model as an API using FastAPI by [Sebastián Ramírez](https://fastapi.tiangolo.com/)
+- [ ] Deploy the predictive model as an API using FastAPI by [Sebastián Ramírez](https://fastapi.tiangolo.com/)
 
 ## Dataset
 
@@ -23,9 +23,9 @@
 
 ## Modeling Techniques
 
-- Probability of Default (PD): Logistic regression
-- Loss Given Default (LGD): Beta regression
-- Exposure at Default (EAD): Beta regression
+- [ ] Probability of Default (PD): Logistic regression
+- [ ] Loss Given Default (LGD): Beta regression
+- [ ] Exposure at Default (EAD): Beta regression
 
 ## Dependent Variables
 
