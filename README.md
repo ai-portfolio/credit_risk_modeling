@@ -2,15 +2,15 @@
 
 ## Objectives
 
-- Calculate the Expected Loss (EL) 
-- Based on EL = PD X LGD X EAD 
-- PD: Probability of Default
-- LGD: Loss Given Default
-- EAD: Exposure at Default 
+1. Predict the Expected Loss (EL) based on EL = PD X LGD X EAD, where: 
+    - PD: Probability of Default
+    - LGD: Loss Given Default
+    - EAD: Exposure at Default 
+2. Deploy the predictive model as an API using FastAPI by [Sebastián Ramírez](https://fastapi.tiangolo.com/)
 
 ## Dataset
 
-- Kaggle Lending Club 
+- [Kaggle Lending Club Loan Data]()
 
 ## Modeling Techniques
 
