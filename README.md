@@ -1,5 +1,3 @@
-# credit_risk_modeling
-
 [![made-with-python](https://img.shields.io/badge/Built%20with-Python-1f425f.svg)](https://www.python.org/)
 [![made-with-sklearn](https://img.shields.io/badge/Built%20with-sklearn-1f425f.svg)](https://www.python.org/)
 [![made-with-jupyter](https://img.shields.io/badge/Built%20with-Jupyter-1f425f.svg)](https://www.python.org/)
@@ -10,6 +8,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
+# credit_risk_modeling
 
 ## Objectives
 
