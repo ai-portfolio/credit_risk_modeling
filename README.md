@@ -15,8 +15,8 @@
 ## Modeling Techniques
 
 - Probability of Default (PD): Logistic regression
-- LGD: Beta regression
-- EAD: Beta regression
+- Loss Given Default (LGD): Beta regression
+- Exposure at Default (EAD): Beta regression
 
 ## Dependent Variables
 
@@ -28,9 +28,11 @@
 
 ### 1. Data Gathering
 
-[] TODO - Add content
+- [ ] TODO: Add content
 
 ### 2. Exploratory Data Analysis (EDA)
+
+- [ ] TODO: Add content
 
 ### 3. Feature Engineering
 
