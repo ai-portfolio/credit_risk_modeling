@@ -89,7 +89,8 @@ $conda activate credit_risk
 
 ### 1. Data Gathering
 
-- [ ] TODO: Add content
+- [x] For this project, I decided to use [Dask](https://dask.org/) to ingest the data faster
+- [x] Data was pulled from [Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data/version/1)
 
 ### 2. Exploratory Data Analysis (EDA)
 
