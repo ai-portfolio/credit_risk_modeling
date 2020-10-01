@@ -74,8 +74,18 @@ $conda activate credit_risk
 - [x] Install required python libraries
 
 ```{}
-(credit_risk)$pip install -r requirements.txt
+(credit_risk) $pip install -r requirements.txt
 ```
+
+- [x] Install Jupyter Lab and/or Notebook in virtual environment
+
+```{}
+(credit_risk) $pip install jupyterlab
+(credit_risk) $pip install notebook
+(credit_risk) $pip freeze > requirements.txt
+```
+
+- [ ] 
 
 ### 1. Data Gathering
 

@@ -1,21 +1,101 @@
-# api libraries
-requests==2.22.0
-uvicorn==0.11.7
+appnope==0.1.0
+argon2-cffi==20.1.0
+async-generator==1.10
+attrs==20.2.0
+backcall==0.2.0
+bleach==3.2.1
+bokeh @ file:///opt/concourse/worker/volumes/live/5da86089-bcce-44bf-4aed-5a13429919e6/volume/bokeh_1599056194428/work
+certifi==2020.6.20
+cffi==1.14.3
+chardet==3.0.4
+click==7.1.2
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
+cycler==0.10.0
+cytoolz==0.11.0
+dask @ file:///tmp/build/80754af9/dask-core_1600699676946/work
+decorator==4.4.2
+defusedxml==0.6.0
+distributed @ file:///opt/concourse/worker/volumes/live/b06311c3-4968-486a-760f-30ac2c685b18/volume/distributed_1601309281517/work
+entrypoints==0.3
 fastapi==0.48.0
-
-# standard libraries
-pandas==1.1.1
-numpy==1.19.1
-
-# data processing libraries
-dask==2.24.0
-
-# visualization libraries
-matplotlib==3.3.0
-seaborn==0.10.1
-
-# machine learning libraries
-scikit-learn==0.23
-
+fsspec @ file:///tmp/build/80754af9/fsspec_1597944003862/work
+h11==0.9.0
+HeapDict==1.0.1
+httptools==0.1.1
+idna==2.8
+importlib-metadata==2.0.0
+ipykernel==5.3.4
+ipython==7.18.1
+ipython-genutils==0.2.0
+jedi==0.17.2
+Jinja2==2.11.2
 joblib==0.14.1
+json5==0.9.5
+jsonschema==3.2.0
+jupyter-client==6.1.7
+jupyter-core==4.6.3
+jupyterlab==2.2.8
+jupyterlab-pygments==0.1.2
+jupyterlab-server==1.2.0
+kiwisolver==1.2.0
+locket==0.2.0
 loguru==0.4.1
+MarkupSafe==1.1.1
+matplotlib==3.3.0
+mistune==0.8.4
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+msgpack==1.0.0
+nbclient==0.5.0
+nbconvert==6.0.6
+nbformat==5.0.7
+nest-asyncio==1.4.1
+notebook==6.1.4
+numpy @ file:///opt/concourse/worker/volumes/live/40d975a3-7e82-44c8-53df-feccdbce8b96/volume/numpy_and_numpy_base_1596233859108/work
+olefile==0.46
+packaging==20.4
+pandas @ file:///opt/concourse/worker/volumes/live/993437e5-6177-49a4-48b9-0912ecc50f00/volume/pandas_1598371475214/work
+pandocfilters==1.4.2
+parso==0.7.1
+partd==1.1.0
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///opt/concourse/worker/volumes/live/05b3bc99-cf9f-44f2-42cf-267ed3a55922/volume/pillow_1594307311725/work
+prometheus-client==0.8.0
+prompt-toolkit==3.0.7
+psutil @ file:///opt/concourse/worker/volumes/live/abb7a219-3a4a-4ff9-4158-148060faae29/volume/psutil_1598370243710/work
+ptyprocess==0.6.0
+pycparser==2.20
+pydantic==1.6.1
+Pygments==2.7.1
+pyparsing==2.4.7
+pyrsistent==0.17.3
+python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
+pyzmq==19.0.2
+requests==2.22.0
+scikit-learn==0.23.0
+scipy==1.5.2
+seaborn==0.10.1
+Send2Trash==1.5.0
+six==1.15.0
+sortedcontainers==2.2.2
+starlette==0.12.9
+tblib @ file:///tmp/build/80754af9/tblib_1597928476713/work
+terminado==0.9.1
+testpath==0.4.4
+threadpoolctl==2.1.0
+toolz @ file:///tmp/build/80754af9/toolz_1601054250827/work
+tornado==6.0.4
+traitlets==5.0.4
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+urllib3==1.25.10
+uvicorn==0.11.7
+uvloop==0.14.0
+wcwidth==0.2.5
+webencodings==0.5.1
+websockets==8.1
+zict==2.0.0
+zipp==3.2.0
